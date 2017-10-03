@@ -1,6 +1,6 @@
-#vDecoder
+# Decoder
 
-###vSummary
+### Summary
 This is a program in Python I have written to take in a list of numbers, convert that into hex bits, make the hex bits into string, and then write to a file.
 
 ### Requirements
